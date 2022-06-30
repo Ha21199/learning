@@ -1,0 +1,46 @@
+body{
+  background-color: blueviolet;
+}
+
+.btn{
+  background-color: turquoise;
+  color: white;
+  border: 10px solid;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px 5px;
+  cursor: pointer;
+  font-size: 15px;
+  box-sizing: unset;
+}
+.alert{
+  margin-top: 20px;
+  width: 300px;
+  background-color: azure;
+  margin-bottom: 20px;
+}
+.newa{
+  background-color: aquamarine;
+}
+.newAlert{
+  margin-bottom: 20px;
+}
+.btn-secondary{
+  background-color: #5a6268;
+}
+.btn-success{
+  background-color: #218838;
+}
+.btn-danger{
+  background-color: #c82333;
+}
+.btn-warning{
+  background-color: #e0a800;
+}
+.btn-info{
+  background-color: #138496;
+}
+
+.btn.boder{
+  border: 5px solid black;
+}
